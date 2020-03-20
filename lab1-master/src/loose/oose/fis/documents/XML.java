@@ -26,4 +26,8 @@ public class XML extends Document {
     public String toString() {
         return "XML " + super.toString();
     }
+
+    public void abc(){
+        System.out.println("abc");
+    }
 }
